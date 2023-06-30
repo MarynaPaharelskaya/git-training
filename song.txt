@@ -5,3 +5,5 @@ One more line
 
 git ui line1
 git ui line2
+
+new line reset
