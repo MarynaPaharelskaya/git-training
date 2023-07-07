@@ -3,4 +3,8 @@ Ome more string
 One more line
 
 
-I do not know songs
+git ui line1
+git ui line2
+
+new line reset
++ 1 more
