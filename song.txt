@@ -2,4 +2,4 @@ I'll always love you
 Ome more string
 One more line
 
-git revert test
+deleted lines
